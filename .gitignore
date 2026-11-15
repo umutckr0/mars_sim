@@ -1,2 +1,3 @@
 # VS Code yerel ayarları
 .vscode/
+.DS_Store
