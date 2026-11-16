@@ -19,3 +19,5 @@ Projede yalnızca C standart kütüphaneleri (`stdio.h`, `stdlib.h`, `string.h`,
 ```bash
 git clone [https://github.com/umutckr0/mars_sim.git](https://github.com/umutckr0/mars_sim.git)
 cd mars_sim
+clang -std=c11 -Wall -Wextra -Wpedantic main-v4.c -o mars_sim
+
